@@ -2,7 +2,8 @@
 
 Live Link [Click Here](https://assignment-12-6f42d.web.app/).
 
-## Available Scripts
+## Projects features
+THis is full stack website maintaining by admin , seller and buyer. Where a seller can add his product and buyer can order any product. THe project is develop on html css javascript react nodejs mongo db and ui tailwind and daisy ui
 
 In the project directory, you can run:
 
