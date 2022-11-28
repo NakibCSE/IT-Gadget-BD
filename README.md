@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting started with laptop blackbery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Link [Click Here](https://assignment-12-6f42d.web.app/).
 
 ## Available Scripts
 
